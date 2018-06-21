@@ -25,6 +25,6 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="184dp"
-        android:text="Ir A Segunda" />
+        android:text="Ir A Segunda página" />
 
 </RelativeLayout>
