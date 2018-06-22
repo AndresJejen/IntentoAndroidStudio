@@ -1,0 +1,23 @@
+commit ad5dd99ec09201b1d06b9b55d75f0027a30924ba
+Author: Andres Jejen <gajcam@gmail.com>
+Date:   Thu Jun 21 17:32:23 2018 -0500
+
+    Primer App Android 1.0
+
+commit ddc324b9dbfd1afde6c5a1188ea1f5046db9b077
+Author: Andres Jejen <gajcam@gmail.com>
+Date:   Thu Jun 21 14:43:14 2018 -0500
+
+    TextBox ColorText
+
+commit b77673b29b263e310719eef6486ca14b63345905
+Author: Andres Jejen <gajcam@gmail.com>
+Date:   Thu Jun 21 14:33:11 2018 -0500
+
+    Nombre Boton1
+
+commit dca17a3a416d4ef57b768d189cd222004aadee72
+Author: Andres Jejen <gajcam@gmail.com>
+Date:   Thu Jun 21 14:28:23 2018 -0500
+
+    Primer Commit
